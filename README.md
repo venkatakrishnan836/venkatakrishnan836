@@ -1,7 +1,7 @@
 # Hi there, I'm Venkatakrishnan S! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&lines=Applied+AI+Developer+%7C+CSE+Student+@+BIT'27;Passionate+about+LLMs%2C+DeepStream%2C+Jetson+%26+Vision+AI;On+a+Journey+to+Build+the+Future+with+AI" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&lines=Applied+AI+Developer+%7C+CSE+@+BIT'27;LLMs+%7C+DeepStream+%7C+Jetson+%7C+Vision+AI;Building+the+Future+with+AI+One+Project+at+a+Time" alt="Typing Animation"/>
 </p>
 
 
