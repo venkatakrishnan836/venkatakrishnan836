@@ -1,6 +1,7 @@
 # Hi there, I'm Venkatakrishnan S! 👋
 
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=%2336BCF7&center=true&vCenter=true&width=650&lines=AI+Evangelist+and+Applied+AI+Developer;Chasing+the+Next+Leap+in+AI;Let's+Build+the+Future+with+AI" alt="Typing SVG" />
 </p>
