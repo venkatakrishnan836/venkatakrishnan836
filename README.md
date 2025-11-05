@@ -28,12 +28,26 @@ I’m an Applied AI Developer passionate about building intelligent systems that
 #### **1. NEST - Neural EEG Synthesis Testbed**
 - 💻 Synthetic EEG generator for BCI research utilizing dual-mode signal synthesis (GAN-based and procedural) to
 simulate realistic brain states including cognitive load, drowsiness, attention, and physiological artifacts.
+
 - 🎯 Real-time signal streaming implementation using PyQt6 GUI framework with LSL (Lab Streaming Layer)
 protocol, featuring 8-channel EEG visualization, spectral analysis, and hardware-accurate OpenBCI packet
 formatting for algorithm testing.
 
-#### **2. LYRA AI - ENGLISH TUTOR (Ongoing) [LangChain, JSON, Python]**
-- 💻 Intelligent assistant to enhance reading, listening, and spoken English skills utilizing LangChain for LLM implementation.
+#### **2. VoiceScribe EHR - Voice-based EHR form-filling system **
+- 💻 AI-enhanced voice based Chrome extension for automated EHR form completion, utilizing a hybrid NLP model
+that integrates the Web Speech API with a real-time LLM correction engine for context-aware field detection
+(patient demographics, vitals, medical terms) and data normalization.
+
+- 🎯 Intelligent data entry pipeline featuring multi-alternative transcript selection and field-specific formatting logic,
+enabling hands-free clinical documentation with automatic silence detection and real-time, AI-driven text
+normalization to reduce manual input errors and improve workflow efficiency.
+
+#### **3. LYRA AI - ENGLISH TUTOR (Ongoing) **
+- 💻 Developed an AI-powered assistant that assesses students’ English skills across reading, listening, speaking,
+and writing, analyzing performance to identify strengths and weaknesses.
+
+- 🎯 Implemented personalized feedback, tailored improvement plans, interactive exercises, and pronunciation
+guidance, with backend development in Django handling multiple user sessions and memory management.
 
 ---
 
