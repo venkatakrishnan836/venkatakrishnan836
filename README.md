@@ -25,9 +25,12 @@ I’m an Applied AI Developer passionate about building intelligent systems that
 
 ### 🌟 Featured Projects
 
-#### **1. ETTA - The Medical Assistant**
-- 💻 Lead a team of three members and developed a chat LLM chain integrated with Retrieval-Augmented Generation (RAG).
-- 🎯 Prioritize healthcare assistance by analyzing medical information and providing accurate insights.
+#### **1. NEST - Neural EEG Synthesis Testbed**
+- 💻 Synthetic EEG generator for BCI research utilizing dual-mode signal synthesis (GAN-based and procedural) to
+simulate realistic brain states including cognitive load, drowsiness, attention, and physiological artifacts.
+- 🎯 Real-time signal streaming implementation using PyQt6 GUI framework with LSL (Lab Streaming Layer)
+protocol, featuring 8-channel EEG visualization, spectral analysis, and hardware-accurate OpenBCI packet
+formatting for algorithm testing.
 
 #### **2. LYRA AI - ENGLISH TUTOR (Ongoing) [LangChain, JSON, Python]**
 - 💻 Intelligent assistant to enhance reading, listening, and spoken English skills utilizing LangChain for LLM implementation.
@@ -38,7 +41,7 @@ I’m an Applied AI Developer passionate about building intelligent systems that
 <p>
   <a href="https://github.com/venkatakrishnan836"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/venkatakrishnan836/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:er.svkr803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:svkr803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
